@@ -1,0 +1,1 @@
+vless://8ea345d1-5358-40e2-a108-2f90893efd1d@ir8.nextping.xyz:44585?type=tcp&encryption=none&host=fast.com&headerType=http&security=none#NextPing
